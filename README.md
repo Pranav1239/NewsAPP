@@ -1,3 +1,6 @@
+
+![Screenshot 2023-08-17 115446](https://github.com/Pranav1239/NewsAPP/assets/142288127/92d22818-5f8e-4e34-9df5-b71caefe4d6f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
